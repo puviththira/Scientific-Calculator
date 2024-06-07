@@ -8,7 +8,6 @@ A simple, one-page scientific calculator website built using HTML, CSS, and Java
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -36,5 +35,3 @@ Simply open the index.html file in a web browser to start using the calculator. 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-## License
-Distributed under the MIT License. See LICENSE for more information.
