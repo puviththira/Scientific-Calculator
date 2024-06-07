@@ -19,7 +19,7 @@ A simple, one-page scientific calculator website built using HTML, CSS, and Java
 
 ## Demo
 
-You can see a live demo of the calculator [here](#).
+You can see a live demo of the calculator [here](https://classy-gaufre-2fd46c.netlify.app/).
 
 ## Installation
 
