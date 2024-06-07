@@ -26,7 +26,7 @@ You can see a live demo of the calculator [here](https://classy-gaufre-2fd46c.ne
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository
-   git clone https://github.com/yourusername/scientific-calculator.git
+   git clone https://github.com/puviththira/Scientific-Calculator.git
 Open the index.html file in your web browser
 open index.html
 
