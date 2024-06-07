@@ -30,11 +30,11 @@ To get a local copy up and running, follow these steps:
 Open the index.html file in your web browser
 open index.html
 
-Usage
+## Usage
 Simply open the index.html file in a web browser to start using the calculator. The calculator supports both basic and scientific calculations.
 
-Contributing
+## Contributing
 Contributions are what make the open-source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-License
+## License
 Distributed under the MIT License. See LICENSE for more information.
